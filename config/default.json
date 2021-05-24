@@ -1,0 +1,5 @@
+{
+    "mongoURI" : "mongodb+srv://rest-manager:rest12345@cluster0.tyx65.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "SecretKey" : "Secret"
+
+}
